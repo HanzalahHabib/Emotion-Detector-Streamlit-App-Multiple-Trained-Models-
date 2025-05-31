@@ -1,0 +1,8 @@
+.ipynb_checkpoints
+app.py
+data
+filenames.txt
+Logistic Regression Model Training & Saving.ipynb
+models
+Naive Bayes Model Training &  Saving.ipynb
+requirements.txt
